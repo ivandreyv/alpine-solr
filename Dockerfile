@@ -1,5 +1,5 @@
 FROM alpine:3.10
-MAINTAINER  <ivandreyv@gmail.com>
+MAINTAINER  <ivandreyv>
 
 RUN apk --update add openjdk8-jre wget gnupg bash curl && rm -rf /var/cache/apk/*
 
