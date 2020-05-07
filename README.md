@@ -1,5 +1,6 @@
 # alpine-solr
 put archive solr-8.5.0.tgz here to build docker
+(get solr from https://archive.apache.org/dist/lucene/solr/)
 
 based on alpine 3.10 and opnejdk8-jre and solr 8.5.0
 
